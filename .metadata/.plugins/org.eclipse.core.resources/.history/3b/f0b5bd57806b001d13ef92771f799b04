@@ -1,0 +1,17 @@
+package com.zavala.mod8;
+
+
+/**
+ * @author Ramiro
+ * Tarefa Mod.8 :
+ * Leitura de 4 notas e dividir por 4. Ou seja, calcular a média
+ * de 4 notas. imprimir no console o resultado.
+ */
+public class TarefaMod8 {
+
+	public static void main(String[] args) {
+		
+
+	}
+
+}
